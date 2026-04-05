@@ -7,3 +7,4 @@ scrape_configs:
       - targets: ['web-production-a3a70f.up.railway.app']
     metrics_path: '/metrics'
     scheme: 'https'
+# rebuild
